@@ -1,0 +1,6 @@
+skbeam.core.constants.xrf.XrfElement.csb
+========================================
+
+.. currentmodule:: skbeam.core.constants.xrf
+
+.. autoattribute:: XrfElement.csb
